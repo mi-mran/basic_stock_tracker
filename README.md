@@ -1,0 +1,1 @@
+Basic stock tracker for the EURO market created in November 2019.
